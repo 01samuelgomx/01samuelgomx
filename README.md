@@ -1,6 +1,6 @@
 <div style="height: 100%; justify-content: space-evenly">
   
-</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 <div style="display:flex; width: 100%; justify-content: flex-start">
   <a href="https://git.io/typing-svg">
@@ -55,3 +55,4 @@
 <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+</div>
