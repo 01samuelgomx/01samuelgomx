@@ -33,11 +33,11 @@
 
 ![HTML](https://img.shields.io/badge/html5-192436?style=for-the-badge&logo=html5&logoColor=orange)
 ![CSS](https://img.shields.io/badge/css3-192436?style=for-the-badge&logo=css3)
-![SASS](https://img.shields.io/badge/sass-192436?style=for-the-badge&logo=sass)
 ![React](https://img.shields.io/badge/react-192436?style=for-the-badge&logo=react)
-![ReactNative](https://img.shields.io/badge/reactNative-192436?style=for-the-badge&logo=react)
+![SASS](https://img.shields.io/badge/sass-192436?style=for-the-badge&logo=sass)
 ![PHP](https://img.shields.io/badge/php-192436?style=for-the-badge&logo=php)
 ![LARAVEL](https://img.shields.io/badge/Laravel-192436?style=for-the-badge&logo=laravel)
+![ReactNative](https://img.shields.io/badge/reactNative-192436?style=for-the-badge&logo=react)
 ![TYPESCRIPT](https://img.shields.io/badge/Typescript-192436?style=for-the-badge&logo=typescript)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-192436?style=for-the-badge&logo=javascript)
 
