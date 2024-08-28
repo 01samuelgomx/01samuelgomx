@@ -38,6 +38,7 @@
 ![ReactNative](https://img.shields.io/badge/reactNative-192436?style=for-the-badge&logo=react)
 ![PHP](https://img.shields.io/badge/php-192436?style=for-the-badge&logo=php)
 ![LARAVEL](https://img.shields.io/badge/Laravel-192436?style=for-the-badge&logo=laravel)
+![TYPESCRIPT](https://img.shields.io/badge/Typescript-192436?style=for-the-badge&logo=typescript)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-192436?style=for-the-badge&logo=javascript)
 
 <div>
