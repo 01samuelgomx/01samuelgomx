@@ -18,8 +18,8 @@
 
 <div width="100%" align="center" justify="center">  
   <a href="https://github.com/01samuelgomx">
-  <img width="50%" height="220px" src="https://github-readme-stats.vercel.app/api?username=01samuelgomx&theme=github_dark" /> 
-  <img width="44%" height="210px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=01samuelgomx&layout=compact&bg_color=0D1117&border_color=fffC&title_color=4886CC&text_color=FFF" />
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=01samuelgomx&theme=github_dark" /> 
+  <img width="50%" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=01samuelgomx&layout=compact&bg_color=0D1117&border_color=fffC&title_color=4886CC&text_color=FFF" />
 </div>
 
 <div align="center">
