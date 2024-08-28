@@ -1,7 +1,4 @@
-<div style="height: 100%; justify-content: space-evenly">
-  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 <div style="display:flex; width: 100%; justify-content: flex-start">
   <a href="https://git.io/typing-svg">
  <p>👋</p>
@@ -52,7 +49,5 @@
 ![POSTMAN](https://img.shields.io/badge/Postman-192436?style=for-the-badge&logo=postman)
 ![MYSQL](https://img.shields.io/badge/Mysql-192436?style=for-the-badge&logo=mysql&logoColor=6E99F5)
 
-<br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-</div>
+
